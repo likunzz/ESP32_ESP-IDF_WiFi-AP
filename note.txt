@@ -65,7 +65,7 @@ I (638) wifi_init: tcp mss: 1440
 I (648) wifi_init: WiFi IRAM OP enabled
 I (648) wifi_init: WiFi RX IRAM OP enabled
 I (928) phy_init: phy_version 4830,54550f7,Jun 20 2024,14:22:08
-I (998) wifi:mode : softAP (24:d7:eb:0e:cf:e1)
+I (998) wifi:mode : softAP (-)
 I (1108) wifi:Total power save buffer number: 16
 I (1108) wifi:Init max length of beacon: 752/752
 I (1108) wifi:Init max length of beacon: 752/752
@@ -73,8 +73,8 @@ I (1108) wifi softAP: wifi_init_softap finished. SSID:myssid-028 password:123456
 I (1108) esp_netif_lwip: DHCP server started on interface WIFI_AP_DEF with IP: 192.168.4.1
 I (1128) main_task: Returned from app_main()
 I (27748) wifi:new:<1,0>, old:<1,1>, ap:<1,1>, sta:<255,255>, prof:1, snd_ch_cfg:0x0
-I (27748) wifi:station: c2:06:9d:d5:49:c7 join, AID=1, bgn, 20
-I (27768) wifi softAP: station c2:06:9d:d5:49:c7 join, AID=1  
+I (27748) wifi:station: กหฟหฟดหดด join, AID=1, bgn, 20
+I (27768) wifi softAP: station กฟฟดฟดฟด join, AID=1  
 I (30458) esp_netif_lwip: DHCP server assigned IP to a client, IP is: 192.168.4.2
-I (32398) wifi:<ba-add>idx:2 (ifx:1, c2:06:9d:d5:49:c7), tid:0, ssn:3, winSize:64
-I (32838) wifi:<ba-add>idx:3 (ifx:1, c2:06:9d:d5:49:c7), tid:1, ssn:0, winSize:64
+I (32398) wifi:<ba-add>idx:2 (ifx:1, โนๆๆๆ), tid:0, ssn:3, winSize:64
+I (32838) wifi:<ba-add>idx:3 (ifx:1, ไม่บอกๆๆๆๆ), tid:1, ssn:0, winSize:64
